@@ -21,7 +21,12 @@ BlockEdfSpectralSummarizeFig is a GUI that facilitates review of spectral analys
 9. Click 'Plot Total Power' to generate total power plots.
 10. Click 'Plot Spectrograms' to generate total power plots.
 11. Click 'Plot Average Spectra' to generate average spectra plots.
-12. Click 'Band Plots' to generate band plots.
+12. Click 'Band Plots' to generate band plots. function also creates subject and overall band averages.
+13. Click 'About' to see version information.
+14. Click 'Close All' to close generated figures.
+15. Click 'Folder' to select location to write output files.
+16. Click 'PPT' to create a power point summary of generated figures.
+17. Click 'Quit' to terminate the applications.
 
 #### GUI vs. Class
 The GUI is designed to provide access to the BlockSpectralSummarizeClass.  The class includes public and private properties that can be accessed directly to tailor the spectral summary.  See the [BlockSpectralSummarizeClass](https://github.com/DennisDean/BlockEdfSpectralSummarizeFig/blob/master/BlockSpectralSummarizeClass.m) header for additional information.
