@@ -28,7 +28,7 @@ The GUI is designed to provide access to the BlockSpectralSummarizeClass.  The c
 
 #### Limitations
 
-The adjudication options is not implemented in all functions.  Curently inplemented in the 'Plot Aaverage Spectra' and 'Band Plots'.
+The adjudication options is not implemented in all functions.  Curently inplemented in the 'Plot Average Spectra' and 'Band Plots'.
 
 #### Acknowledgements:
 
