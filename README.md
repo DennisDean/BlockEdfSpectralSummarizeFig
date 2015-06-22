@@ -35,7 +35,7 @@ The GUI is designed to provide access to the BlockSpectralSummarizeClass.  The c
 
 Adjudication requires a file with id numbers in the first column and a column for each signal analyzed. The program expects that the id numbers in the summary file are included in the adjudication file. Subject signal entries are included in the analysis if the coreesponding adjudication value is set to 1. 
 
-For analyeses that require complete data, the 'Adjudicate' button can be used to create a new spectral summary file that excludes all subjects with correspoinding adjudication entry set to 0.  
+For analyeses that require complete data, the 'Adjudicate' button can be used to create a new spectral summary file that excludes all subjects; where at least one correspoinding signal adjudication entry is set to 0.  
 
 No adjudication entry: For clean data sets it may be possible to remove non-physiological data by setting the 'Start Pctl' and 'End Pctl'.
 
