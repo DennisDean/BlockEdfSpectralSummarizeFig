@@ -36,6 +36,10 @@ For analyeses that require complete data, the 'Adjudicate' button can be used to
 
 No adjudication entry: For clean data sets it may be possible to remove non-physiological data by setting the 'Start Pctl' and 'End Pctl'.
 
+#### Covariate File
+
+The covaraite file should include a single header line. Subject ids should be listed in the first column.
+
 #### Limitations
 
 The adjudication options is not implemented in all functions.  Curently inplemented in the 'Plot Average Spectra' and 'Band Plots'.
