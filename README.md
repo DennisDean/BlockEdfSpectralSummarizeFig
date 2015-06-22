@@ -47,8 +47,8 @@ The adjudication options is not implemented in all functions.  Curently inplemen
 #### Acknowledgements:
 
 Uses:
-[saveppt2 (http://www.mathworks.com/matlabcentral/fileexchange/19322-saveppt2)](http://www.mathworks.com/matlabcentral/fileexchange/19322-saveppt2)
-[fixfig (http://www.mathworks.com/matlabcentral/fileexchange/24095-fixfig)]
+* [saveppt2 (http://www.mathworks.com/matlabcentral/fileexchange/19322-saveppt2)](http://www.mathworks.com/matlabcentral/fileexchange/19322-saveppt2)
+* [fixfig (http://www.mathworks.com/matlabcentral/fileexchange/24095-fixfig)]
 
 #### Questions
 
